@@ -3,6 +3,8 @@
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
+*.pdf
+*.DS_Store
 *.aux
 *.lof
 *.log
